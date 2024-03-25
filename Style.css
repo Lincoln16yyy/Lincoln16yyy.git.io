@@ -49,10 +49,10 @@ section.sobre{
   position:absolute;
   bottom: -450px;
   right: -500px;
-  width:1200px;
-  height:1200px;
+  width:1000px;
+  height:1000px;
   border-radius: 50%;
-  background-color: #F5704B;
+  background-color: #F5704B63;
 }
 
 .social-midia{
