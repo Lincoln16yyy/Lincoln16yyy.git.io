@@ -83,3 +83,9 @@ section.sobre{
   font-weight: bold;
   max-width: 800px;
 }
+
+@media (max-width: 574px){
+      header{
+         display:nome;
+      }
+}
