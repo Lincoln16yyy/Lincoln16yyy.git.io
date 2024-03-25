@@ -86,6 +86,6 @@ section.sobre{
 
 @media (max-width: 574px){
       header{
-         display:nome;
+         display:none;
       }
 }
